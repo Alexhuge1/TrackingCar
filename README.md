@@ -13,7 +13,7 @@
 
 机械方面：亚克力作为中间支撑，四周采用滑块做悬挂，并且训练使用麦克纳姆轮（其实没有必要，这次只用了差速转向）
 
-![image](https://raw.githubusercontent.com/Alexhuge1/TrackingCar/blob/main/%E6%9C%BA%E6%A2%B0/1.24.jpg)
+![image](https://raw.githubusercontent.com/Alexhuge1/TrackingCar/main/%E6%9C%BA%E6%A2%B0/1.24.jpg)
 
 电控方面：对于循迹传感器做逻辑判断，并且使用双路PWM输出控制电机
 
