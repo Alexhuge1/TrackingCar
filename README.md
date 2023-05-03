@@ -1,5 +1,6 @@
 # TrackingCar
 大家好，我是黄一
+
 话不多说，先上图。
 ![image](https://raw.githubusercontent.com/Alexhuge1/TrackingCar/main/%E6%9C%BA%E6%A2%B0/%E5%AE%9E%E7%89%A9%E5%9B%BE%E7%89%87/IMG_20230423_152139.jpg)
 比赛规则，沿着赛道循迹一圈冲过终点，其中道路有障碍物要做一定量的减震，并且要与树莓派通信实现识别红绿灯并在主板上点亮相对应的灯。
